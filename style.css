@@ -190,10 +190,12 @@ margin-left: 68%;
   }
   .Frase_inicio{
     text-align: center;
-    font-family: 'Alex Brush', cursive;
-         font-size: 28px;
-         color: #888888;
+  
+   font-family:'Amatic SC', cursive;
+         font-size: 29px;
+         color: #575757;
          margin-top: 10%; 
+         font-weight: 600;
   }
   .galeria{
     width: 8%;
@@ -227,8 +229,9 @@ margin-left: 68%;
   margin: 15%;
     text-align: center;
     color:#748DB6;
-    font-size: 224%;
-    font-family: 'Great Vibes', cursive;
+    font-size: 230%;
+    font-weight: 600;
+   font-family:'Amatic SC', cursive;
 }
 
 .copas{
@@ -261,8 +264,9 @@ margin-left: 68%;
   margin: 16%;
     text-align: center;
     color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
+    font-size: 31px;
+   font-weight: 600;
+   font-family:'Amatic SC', cursive;
 }
 
 .clik {
@@ -300,24 +304,26 @@ justify-content: center;
   margin: 16%;
     text-align: center;
     color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
+    font-size: 31px;
+font-weight: 600;
+   font-family:'Amatic SC', cursive;
     margin-top: 15%;
 }
 .parrafo03{
   margin: 16%;
     text-align: center;
     color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
+    font-size: 31px;
+   font-weight: 600;
+   font-family:'Amatic SC', cursive;
     margin-top: -15%;
 }
 .parrafo4{
   margin: 16%;
     text-align: center;
-    color:#a3a3a3 ;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
+    color:#8a8a8a ;
+    font-size: 31px;
+   font-family:'Amatic SC', cursive;
     font-weight: 600;
     margin-top: 4%;
 }
@@ -326,8 +332,9 @@ justify-content: center;
   margin: 15%;
     text-align: center;
     color:#748DB6;
-    font-size: 224%;
-    font-family: 'Great Vibes', cursive;
+    font-size: 228%;
+   font-weight: 600;
+   font-family:'Amatic SC', cursive;
 }
 
 
@@ -335,8 +342,9 @@ justify-content: center;
   margin: 16%;
     text-align: center;
     color: #575757;
-    font-size: 26px;
-    font-family: 'Great Vibes', cursive;
+    font-size: 31px;
+ font-weight: 600;
+   font-family:'Amatic SC', cursive;
     margin-top: -5%;
 }
 .regalo{
@@ -347,8 +355,9 @@ justify-content: center;
 .parrafoD{
   text-align: center;
   font-family: "Alegreya", serif; 
-     font-size: 17px;
+     font-size: 18px;
      color: #4d4c4c;
+     font-weight: 500;
      margin-top: 5%;
      letter-spacing: 2px;
 }
@@ -376,8 +385,9 @@ justify-content: center;
   margin: 16%;
   text-align: center;
   color: #575757;
-  font-size: 34px;
-  font-family: 'Great Vibes', cursive;
+  font-size: 37px;
+  font-weight: 600;
+   font-family:'Amatic SC', cursive;
   margin-top: 25%;
 }
 .Tizi{
